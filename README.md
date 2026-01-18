@@ -1,107 +1,140 @@
-<!-- HERO SECTION -->
-<h1 align="center">👋 Hey there, I'm M Saroni</h1>
-<h3 align="center">Crafting Web Experiences with Code & Creativity</h3>
+<!-- ===================== -->
+<!--        HERO           -->
+<!-- ===================== -->
+<h1 align="center">👋 Hi, I'm M Saroni</h1>
+
+<h3 align="center">
+  ☕ Java Back End Developer  
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer+in+Progress;Frontend+%7C+Backend+Learner;Turning+Ideas+into+Websites;Code.+Learn.+Build.&center=true&width=520&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Java+Backend+Engineer;Spring+Boot+Specialist;RESTful+API+Architect;Clean+Code+%7C+Scalable+System+%7C+Secure+API">
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
+</p>
+
+---
+
+<!-- ===================== -->
+<!--       ABOUT           -->
+<!-- ===================== -->
+## 🧠 Backend Engineer Mindset
+
+Saya **M SARONI**, seorang **Back End Java Developer** yang fokus membangun **server-side system** yang:
+
+- ⚙️ **Stabil & Scalable**
+- 🔐 **Secure by Design**
+- 🧩 **Clean Architecture**
+- 📦 **Maintainable Codebase**
+
+Saya terbiasa bekerja dengan **business logic kompleks**, **API contract**, dan **database integrity**.
+
+---
+
+<!-- ===================== -->
+<!--       FOCUS           -->
+<!-- ===================== -->
+## 🎯 Current Engineering Focus
+
+<p align="center">
+  <img src="https://github.com/saadeghi/daisyui/raw/master/src/docs/static/images/hero-animation.gif" width="500"/>
+</p>
+
+- ☕ Java (OOP, Stream, Exception Handling)
+- 🌱 Spring Boot (REST API, Validation, MVC)
+- 🔐 Spring Security (JWT, Auth)
+- 🗄️ MySQL & JPA / Hibernate
+- 📜 Swagger API Documentation
+- 🧼 Clean Code & SOLID Principles
+
+---
+
+<!-- ===================== -->
+<!--       STACK           -->
+<!-- ===================== -->
+## 🛠️ Tech Stack (Animated)
+
+### ☕ Core Language
+<p>
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" />
+</p>
+
+### 🌿 Backend Framework
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,hibernate,mysql&theme=dark" />
+</p>
+
+### 🔧 Tools & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,maven,postman,idea&theme=dark" />
+</p>
+
+---
+
+<!-- ===================== -->
+<!--       STATS           -->
+<!-- ===================== -->
+## 📊 GitHub Performance
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=username&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=username&theme=radical" />
+</p>
+
+---
+
+<!-- ===================== -->
+<!--       PROJECTS        -->
+<!-- ===================== -->
+## 🚀 Backend Projects
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="380"/>
+</p>
+
+- ⚙️ **Java Spring Boot REST API**  
+  Layered architecture, validation, MySQL
+
+- 🔐 **Authentication & Authorization System**  
+  JWT, role-based access
+
+- 🗳️ **Secure Online Voting Backend**  
+  Data integrity & transaction-safe logic
+
+---
+
+<!-- ===================== -->
+<!--       CONNECT         -->
+<!-- ===================== -->
+## 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/username">
+    <img src="https://img.shields.io/badge/LinkedIn-Backend%20Engineer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<!-- ===================== -->
+<!--       FOOTER          -->
+<!-- ===================== -->
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
----
-
-## 🚀 Who Am I?
-
-Saya **M SARONI**, seorang **Web Developer yang sedang berkembang** dan percaya bahwa **kode bukan hanya soal logika, tapi juga pengalaman pengguna**.
-
-Saya senang:
-- 🧩 Memecahkan masalah dengan kode
-- 🎨 Mendesain tampilan web yang bersih & responsif
-- 🔄 Menghubungkan frontend dengan backend
-- 📊 Mengelola data dengan database
-
-Saat ini saya aktif membangun berbagai project web dan terus meningkatkan skill **Fullstack Web Development**.
-
----
-
-## 🧠 What I’m Focusing On Now
-
-- ⚡ JavaScript (DOM, API, Logic)
-- 🧱 HTML5 & CSS3 (Responsive Layout)
-- 🔐 PHP & MySQL (Backend Fundamental)
-- 🌐 Git & GitHub Workflow
-- 🚀 Persiapan ke Framework modern
-
----
-
-## 🧰 My Toolbox
-
-### 🧑‍💻 Core Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql" />
-</p>
-
-### 🎨 UI & Styling
-<p>
-  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind" />
-</p>
-
-### 🛠️ Dev Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
-
----
-
-## 🌍 Let’s Connect
-
-<p align="center">
-  <a href="https://instagram.com/username">
-    <img src="https://img.shields.io/badge/Instagram-Explore%20My%20Journey-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/username">
-    <img src="https://img.shields.io/badge/LinkedIn-Build%20Together-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
-
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=radical" />
-</p>
-
----
-
-## 🧪 Projects I Love Building
-
-- 🌐 **Interactive Websites**  
-  Fokus pada UI/UX dan performa
-
-- 🗳️ **Online Voting System**  
-  Simulasi pemilihan berbasis web
-
-- 🎮 **API-Based Web Apps**  
-  Mengolah data API jadi tampilan menarik
-
----
-
-## ✨ My Developer Mindset
-
-> *“Every line of code is a step forward.  
-Learn consistently. Build fearlessly.”*
-
----
-
-⭐ Terima kasih sudah mampir ke profil saya  
-💥 *Let’s grow and build something awesome together!*
+<h3 align="center">
+  🚀 Build Strong Systems, Not Just Code
+</h3>
