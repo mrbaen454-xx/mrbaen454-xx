@@ -1,77 +1,50 @@
 <!-- ===================================== -->
 <!--               HERO                   -->
 <!-- ===================================== -->
-<h1 align="center">M SARONI</h1>
-
-<h3 align="center">
-  Java Back End Developer • API & System Engineer
-</h3>
+<h1 align="center">☕ Leptop</h1>
+<h3 align="center">Java Back End Developer • System & API Engineer</h3>
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?
-    font=JetBrains+Mono
-    &size=22
-    &pause=900
-    &color=FF6F00
-    &center=true
-    &vCenter=true
-    &width=720
-    &lines=Java+Backend+Developer;
-            Spring+Boot+%7C+REST+API+%7C+MySQL;
-            Designing+Robust+Server-Side+Systems;
-            Clean+Architecture+%7C+Scalable+Logic"
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=900&color=FF6F00&center=true&vCenter=true&width=750&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+API+%7C+MySQL;Designing+Scalable+Server-Side+Systems;Clean+Architecture+%7C+Secure+Logic" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6f00,100:ffb300&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6f00,100:ffca28&height=140&section=header"/>
 </p>
 
 ---
 
 <!-- ===================================== -->
-<!--              INTRO                   -->
+<!--              ABOUT                   -->
 <!-- ===================================== -->
 <div align="center">
 
-## 🧠 Backend Is Where I Belong
+## 🧠 Backend Is My Core
 
-Saya adalah **Java Back End Developer** yang fokus membangun **logika aplikasi**,  
-**alur data**, dan **API yang kuat & aman**.
+Saya adalah **Java Back End Developer** yang fokus pada  
+**business logic**, **alur data**, dan **keamanan sistem**.
 
-Bagi saya:
-- Backend bukan hanya *support*, tapi **fondasi**
-- Kode harus **jelas, terstruktur, dan tahan lama**
-- Sistem harus **siap berkembang**, bukan sekadar jalan
+Saya percaya:
+- ⚙️ Backend adalah **pondasi aplikasi**
+- 🔐 Sistem harus aman sejak awal
+- 🧼 Kode harus rapi, bukan sekadar jalan
+- 📦 Arsitektur menentukan masa depan aplikasi
 
 </div>
 
 ---
 
 <!-- ===================================== -->
-<!--           BACKEND FOCUS               -->
+<!--           VISUAL BREAK               -->
 <!-- ===================================== -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=username&theme=onestar&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=username&theme=radical&no-frame=true&row=1&column=7"/>
 </p>
-
-<div align="center">
-
-## 🎯 What I Focus On
-
-⚙️ Request → Validation → Business Logic → Database → Response  
-🔐 Security, consistency, and performance  
-📦 Modular & layered backend architecture  
-
-Saya terbiasa membangun backend dengan mindset **engineer**, bukan sekadar coder.
-
-</div>
 
 ---
 
 <!-- ===================================== -->
-<!--             TECH STACK               -->
+<!--           TECH STACK                 -->
 <!-- ===================================== -->
 <div align="center">
 
@@ -79,22 +52,22 @@ Saya terbiasa membangun backend dengan mindset **engineer**, bukan sekadar coder
 
 ### 🧑‍💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,c,cpp,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,js,c,cpp,html,css&theme=dark" />
 </p>
 
 ### 🧱 Frameworks & UI Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=bootstrap,framework7,javafx" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,framework7,javafx&theme=dark" />
 </p>
 
 ### 🗄️ Database & Server
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,apache" />
+  <img src="https://skillicons.dev/icons?i=mysql,apache&theme=dark" />
 </p>
 
-### 🎨 Design & Productivity Tools
+### 🎨 Design & Dev Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,canva" />
+  <img src="https://skillicons.dev/icons?i=figma,canva,vscode,git,github&theme=dark" />
 </p>
 
 </div>
@@ -102,33 +75,36 @@ Saya terbiasa membangun backend dengan mindset **engineer**, bukan sekadar coder
 ---
 
 <!-- ===================================== -->
-<!--         CURRENT JOURNEY               -->
+<!--         ACTIVITY GRAPH               -->
 <!-- ===================================== -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=username&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=username&theme=tokyo-night&hide_border=true" />
 </p>
 
+---
+
+<!-- ===================================== -->
+<!--        CURRENT FOCUS                 -->
+<!-- ===================================== -->
 <div align="center">
 
-## 🚀 Current Journey
+## 🚀 Current Focus
 
-- ☕ Deepening **Java & OOP Mastery**
-- 🌱 Spring Boot REST API
-- 🔐 Authentication & Authorization
-- 🧪 API Testing & Documentation
-- 📊 Database optimization & design
-- 🧼 Clean Code & Best Practices
+☕ Advanced Java & OOP  
+🌱 Spring Boot REST API  
+🔐 Authentication & Authorization  
+🧪 API Testing & Documentation  
+📊 Database Design & Optimization  
+🧼 Clean Code & Best Practices  
 
 </div>
 
 ---
 
 <!-- ===================================== -->
-<!--              STATS                   -->
+<!--             STATS                   -->
 <!-- ===================================== -->
 <div align="center">
-
-## 📈 GitHub Insights
 
 <img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=tokyonight&hide_border=true" width="80%"/>
 
@@ -141,24 +117,33 @@ Saya terbiasa membangun backend dengan mindset **engineer**, bukan sekadar coder
 ---
 
 <!-- ===================================== -->
-<!--            PROJECTS                  -->
+<!--           PROJECT MINDSET            -->
 <!-- ===================================== -->
 <div align="center">
 
-## 🧩 What I Build
+## 🧩 What I Love to Build
 
-⚙️ **Java Backend Systems**  
-🔐 **Authentication & Authorization APIs**  
-📦 **Transaction-Based Applications**  
-🗄️ **Database-Driven Systems**  
-🌐 **Backend as a Service for Web Apps**
+⚙️ Java Backend Systems  
+🔐 Secure Authentication APIs  
+📦 Transaction-Based Applications  
+🗄️ Database-Centric Systems  
+🌐 Backend Services for Web Apps  
 
 </div>
 
 ---
 
 <!-- ===================================== -->
-<!--             CONNECT                  -->
+<!--        SNAKE ANIMATION               -->
+<!-- ===================================== -->
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+<!-- ===================================== -->
+<!--             CONNECT                 -->
 <!-- ===================================== -->
 <div align="center">
 
@@ -179,9 +164,9 @@ Saya terbiasa membangun backend dengan mindset **engineer**, bukan sekadar coder
 <!--              FOOTER                  -->
 <!-- ===================================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb300,100:ff6f00&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffca28,100:ff6f00&height=140&section=footer"/>
 </p>
 
 <h3 align="center">
-  ☕ Build backend systems that last.
+  ☕ Build backend systems that scale & last.
 </h3>
