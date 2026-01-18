@@ -1,88 +1,188 @@
-<h1 align="center">Hi 👋, I'm Leptop</h1>
-<h3 align="center">A Passionate Junior Fullstack Web Developer 💻</h3>
+<!-- =============================== -->
+<!--            HERO                -->
+<!-- =============================== -->
+<h1 align="center">☕ Leptop</h1>
+<h3 align="center">Back End Java Developer • System Builder • API Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Junior+Web+Developer;HTML+CSS+JavaScript+Enthusiast;Learning+Backend+and+Database;Always+Learning+New+Things&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=22&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+API+%7C+Database;Building+Robust+and+Scalable+Systems;Code+with+Purpose+and+Precision">
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="420"/>
 </p>
 
 ---
 
-## 💫 About Me
+<!-- =============================== -->
+<!--          INTRO                  -->
+<!-- =============================== -->
+<div align="center">
 
-Halo! Saya **Leptop**, seorang **Junior Fullstack Web Developer** yang sedang fokus membangun website modern dan responsif menggunakan **HTML, CSS, JavaScript**, serta mulai mendalami **Backend (PHP & MySQL)**.
+## 🧠 Who Am I?
 
-Saya memiliki ketertarikan besar pada:
-- 💡 Pengembangan website interaktif
-- 🧠 Logika pemrograman & clean code
-- 🌐 Integrasi API
-- 📊 Pengelolaan database
+Saya adalah **Back End Java Developer** dengan ketertarikan besar pada **arsitektur sistem**, **alur data**, dan **keamanan backend**.  
+Bagi saya, backend adalah **jantung aplikasi** — tidak terlihat, tapi menentukan segalanya.
 
-Saat ini saya aktif mengembangkan project web seperti **website voting OSIS**, website berbasis API, dan project pembelajaran web lainnya.
+Saya fokus membangun:
+- ⚙️ Sistem yang **stabil & scalable**
+- 🔐 API yang **aman & terkontrol**
+- 📦 Kode yang **rapi & mudah dirawat**
+- 🧩 Logic yang **jelas & terstruktur**
 
-🎯 **Goals:**  
-Menjadi **Fullstack Web Developer profesional** dan berkontribusi dalam membangun aplikasi web yang bermanfaat dan berdampak nyata.
+</div>
 
 ---
 
-## 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://instagram.com/username" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/username" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<!-- =============================== -->
+<!--        BACKEND FOCUS            -->
+<!-- =============================== -->
+<p align="center">
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="380"/>
 </p>
 
+<div align="center">
+
+## 🎯 Backend Is My Playground
+
+Saya terbiasa berpikir dalam bentuk:
+- Flow request → response
+- Validasi data & error handling
+- Database relationship & integrity
+- Modular & layered architecture
+
+Setiap baris kode backend harus **punya tujuan** dan **tidak boleh rapuh**.
+
+</div>
+
 ---
+
+<!-- =============================== -->
+<!--        TECH STACK               -->
+<!-- =============================== -->
+<div align="center">
 
 ## 💻 Tech Stack
 
-### 🚀 Languages
+### 🧑‍💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,sql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,c,cpp" />
 </p>
 
-### 🧩 Frameworks & Libraries
+### 🧱 Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,framework7,javafx" />
 </p>
 
-### 🛠️ Tools & Platforms
+### 🗄️ Database & Server
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,postman" />
+  <img src="https://skillicons.dev/icons?i=mysql,apache" />
 </p>
+
+### 🎨 Design & Productivity
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,canva" />
+</p>
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
-
+<!-- =============================== -->
+<!--        CURRENT LEARNING         -->
+<!-- =============================== -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=tokyonight" />
+  <img src="https://media.giphy.com/media/9rtpurjbqiqZXbBBet/giphy.gif" width="360"/>
 </p>
 
+<div align="center">
+
+## 📚 Currently Exploring
+
+- ☕ Advanced Java & OOP
+- 🌱 Spring Boot REST API
+- 🔐 Authentication & Authorization
+- 🧪 API Testing & Documentation
+- 📊 Database Optimization
+- 🧼 Clean Code & Best Practices
+
+</div>
+
+---
+
+<!-- =============================== -->
+<!--          STATS                  -->
+<!-- =============================== -->
+<div align="center">
+
+## 📈 GitHub Activity
+
+<img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=tokyonight&hide_border=true" width="80%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=username&theme=tokyonight&hide_border=true" width="80%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=username&theme=tokyonight" width="90%"/>
+
+</div>
+
+---
+
+<!-- =============================== -->
+<!--         PROJECTS                -->
+<!-- =============================== -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=username&theme=tokyonight" />
+  <img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" width="420"/>
 </p>
 
+<div align="center">
+
+## 🚀 What I Love to Build
+
+- ⚙️ **Java Backend Systems**  
+  REST API, validation, database integration
+
+- 🔐 **Authentication Services**  
+  Secure login, role-based access
+
+- 🗳️ **Transaction-Based Systems**  
+  Data consistency & integrity
+
+- 🌐 **Web Integration**  
+  Backend sebagai tulang punggung frontend
+
+</div>
+
 ---
 
-## 🚀 Featured Projects
+<!-- =============================== -->
+<!--          CONNECT                -->
+<!-- =============================== -->
+<div align="center">
 
-- 🗳️ **Website Pemilihan Ketua OSIS**  
-  Website voting online berbasis HTML, CSS, JS, PHP & MySQL
+## 🌐 Connect With Me
 
-- 🎮 **Trending Games Website**  
-  Menampilkan data game dari API dengan slider horizontal
+<a href="https://www.linkedin.com/in/username">
+  <img src="https://img.shields.io/badge/LinkedIn-Backend%20Engineer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:email@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-- 📚 **Web Learning Project**  
-  Project latihan HTML, CSS, JavaScript & database
+</div>
 
 ---
 
-⭐ *Terima kasih sudah mengunjungi profile GitHub saya!*  
-🔥 *Jangan lupa follow dan star repository saya ya!*
+<!-- =============================== -->
+<!--           FOOTER                -->
+<!-- =============================== -->
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+<h3 align="center">
+  ⚙️ “Strong backend makes great products possible.”
+</h3>
