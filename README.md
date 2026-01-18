@@ -37,11 +37,11 @@ Saya percaya:
 <!-- ===================================== -->
 <!--           VISUAL BREAK               -->
 <!-- ===================================== -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=username&theme=radical&no-frame=true&row=1&column=7"/>
 </p>
 
----
+--- -->
 
 <!-- ===================================== -->
 <!--           TECH STACK                 -->
@@ -149,11 +149,8 @@ Saya percaya:
 
 ## 🌐 Let’s Connect
 
-<a href="https://www.linkedin.com/in/username">
-  <img src="https://img.shields.io/badge/LinkedIn-Java%20Backend-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:email@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="[https://instagram.com/username](https://www.instagram.com/mchsroni?igsh=ZnE1dzNpdHBpYjg=)">
+  <img src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </div>
