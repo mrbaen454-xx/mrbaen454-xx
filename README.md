@@ -1,113 +1,88 @@
-<!-- ===================== -->
-<!--   JAVA BACKEND HERO   -->
-<!-- ===================== -->
-<h1 align="center">Hi 👋, I'm Saroni</h1>
-<h3 align="center">Back End Java Developer | System-Oriented & API Driven</h3>
+<h1 align="center">Hi 👋, I'm Leptop</h1>
+<h3 align="center">A Passionate Junior Fullstack Web Developer 💻</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Backend+Developer;Spring+Boot+Enthusiast;Building+Scalable+and+Secure+Systems;Clean+Code+%7C+REST+API+%7C+Database&center=true&width=560&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Junior+Web+Developer;HTML+CSS+JavaScript+Enthusiast;Learning+Backend+and+Database;Always+Learning+New+Things&center=true&width=500&height=45">
 </p>
 
 ---
 
-## 🧩 Backend Engineer at Heart
+## 💫 About Me
 
-Saya **M SARONI**, seorang **Back End Developer** dengan fondasi kuat di **Java** dan fokus pada pengembangan **server-side system** yang **stabil, aman, dan terstruktur**.
+Halo! Saya **Leptop**, seorang **Junior Fullstack Web Developer** yang sedang fokus membangun website modern dan responsif menggunakan **HTML, CSS, JavaScript**, serta mulai mendalami **Backend (PHP & MySQL)**.
 
-Saya terbiasa berpikir dalam bentuk:
-- 🔗 Alur data & arsitektur sistem
-- 🧠 Business logic & validation
-- 📦 Modular code & maintainability
-- 🔐 Security awareness & data integrity
+Saya memiliki ketertarikan besar pada:
+- 💡 Pengembangan website interaktif
+- 🧠 Logika pemrograman & clean code
+- 🌐 Integrasi API
+- 📊 Pengelolaan database
 
-Saat ini saya berfokus memperdalam **Spring Boot**, RESTful API, dan manajemen database untuk membangun aplikasi backend yang siap produksi.
+Saat ini saya aktif mengembangkan project web seperti **website voting OSIS**, website berbasis API, dan project pembelajaran web lainnya.
 
----
-
-## 🎯 Professional Focus
-
-- ⚙️ Java (OOP, Collections, Exception Handling)
-- 🌱 Spring Boot (REST API, MVC, Validation)
-- 🧪 API Testing & Documentation
-- 🗄️ Relational Database Design
-- 🔐 Basic Security & Authentication
-- 🧼 Clean Code & SOLID Principles
+🎯 **Goals:**  
+Menjadi **Fullstack Web Developer profesional** dan berkontribusi dalam membangun aplikasi web yang bermanfaat dan berdampak nyata.
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🌐 Connect with Me
 
-### ☕ Core Language
+<p align="left">
+  <a href="https://instagram.com/username" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/username" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+### 🚀 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,sql" />
 </p>
 
-### 🌿 Framework & Backend Stack
+### 🧩 Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,mysql,hibernate" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react" />
 </p>
 
-### 🔧 Tools & Ecosystem
+### 🛠️ Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,maven,postman,idea" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,postman" />
 </p>
 
 ---
 
-## 🔬 What I’m Currently Improving
-
-- 🔐 Spring Security (JWT & Authentication)
-- 🧩 JPA & Hibernate Optimization
-- 📊 Database Normalization & Query Performance
-- 🧱 Layered Architecture (Controller, Service, Repository)
-- 📜 API Documentation with Swagger
-
----
-
-## 📈 GitHub Engineering Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=username&theme=tokyonight" />
 </p>
 
 ---
 
-## 🧪 Backend-Centric Projects
+## 🚀 Featured Projects
 
-- ⚙️ **REST API Service (Java Spring Boot)**  
-  CRUD, validation, layered architecture, MySQL
+- 🗳️ **Website Pemilihan Ketua OSIS**  
+  Website voting online berbasis HTML, CSS, JS, PHP & MySQL
 
-- 🔐 **Authentication API**  
-  Login, Register, JWT, role-based access
+- 🎮 **Trending Games Website**  
+  Menampilkan data game dari API dengan slider horizontal
 
-- 🗳️ **Online Voting Backend System**  
-  Secure voting logic & database integrity
-
----
-
-## 🌐 Professional Contact
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/username">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
+- 📚 **Web Learning Project**  
+  Project latihan HTML, CSS, JavaScript & database
 
 ---
 
-## 🧠 Engineering Principle
-
-> *“A backend system should be invisible to the user —  
-but reliable, secure, and powerful under the hood.”*
-
----
-
-⭐ Thanks for visiting my GitHub profile  
-🚀 Let’s build scalable systems with Java
+⭐ *Terima kasih sudah mengunjungi profile GitHub saya!*  
+🔥 *Jangan lupa follow dan star repository saya ya!*
